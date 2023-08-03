@@ -1,2 +1,2 @@
 # Eliot
-Test repository
+For start project make command docker-compose up
