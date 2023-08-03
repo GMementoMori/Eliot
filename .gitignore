@@ -1,0 +1,7 @@
+.idea
+.git
+src/vendor
+src/composer.lock
+.env
+logs
+mysql/data
